@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-03-18T17:57:38.592Z",
+  "updated": "2026-03-18T17:58:30.997Z",
   "pairs": [
     {
       "src": "en",
@@ -72,6 +72,78 @@
       "src": "en",
       "tgt": "tr",
       "file": "en-tr.json",
+      "count": 15
+    },
+    {
+      "src": "es",
+      "tgt": "en",
+      "file": "es-en.json",
+      "count": 19
+    },
+    {
+      "src": "fr",
+      "tgt": "en",
+      "file": "fr-en.json",
+      "count": 17
+    },
+    {
+      "src": "zh",
+      "tgt": "en",
+      "file": "zh-en.json",
+      "count": 22
+    },
+    {
+      "src": "ar",
+      "tgt": "en",
+      "file": "ar-en.json",
+      "count": 15
+    },
+    {
+      "src": "hi",
+      "tgt": "en",
+      "file": "hi-en.json",
+      "count": 15
+    },
+    {
+      "src": "de",
+      "tgt": "en",
+      "file": "de-en.json",
+      "count": 17
+    },
+    {
+      "src": "pt",
+      "tgt": "en",
+      "file": "pt-en.json",
+      "count": 18
+    },
+    {
+      "src": "ru",
+      "tgt": "en",
+      "file": "ru-en.json",
+      "count": 18
+    },
+    {
+      "src": "ja",
+      "tgt": "en",
+      "file": "ja-en.json",
+      "count": 18
+    },
+    {
+      "src": "ko",
+      "tgt": "en",
+      "file": "ko-en.json",
+      "count": 17
+    },
+    {
+      "src": "it",
+      "tgt": "en",
+      "file": "it-en.json",
+      "count": 16
+    },
+    {
+      "src": "tr",
+      "tgt": "en",
+      "file": "tr-en.json",
       "count": 15
     }
   ]
