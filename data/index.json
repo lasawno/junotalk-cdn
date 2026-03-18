@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "updated": "2026-03-18T17:57:38.592Z",
+  "pairs": [
+    {
+      "src": "en",
+      "tgt": "es",
+      "file": "en-es.json",
+      "count": 40
+    },
+    {
+      "src": "en",
+      "tgt": "fr",
+      "file": "en-fr.json",
+      "count": 30
+    },
+    {
+      "src": "en",
+      "tgt": "zh",
+      "file": "en-zh.json",
+      "count": 30
+    },
+    {
+      "src": "en",
+      "tgt": "hi",
+      "file": "en-hi.json",
+      "count": 18
+    },
+    {
+      "src": "en",
+      "tgt": "ar",
+      "file": "en-ar.json",
+      "count": 19
+    },
+    {
+      "src": "en",
+      "tgt": "de",
+      "file": "en-de.json",
+      "count": 20
+    },
+    {
+      "src": "en",
+      "tgt": "ja",
+      "file": "en-ja.json",
+      "count": 19
+    },
+    {
+      "src": "en",
+      "tgt": "ko",
+      "file": "en-ko.json",
+      "count": 17
+    },
+    {
+      "src": "en",
+      "tgt": "pt",
+      "file": "en-pt.json",
+      "count": 19
+    },
+    {
+      "src": "en",
+      "tgt": "ru",
+      "file": "en-ru.json",
+      "count": 19
+    },
+    {
+      "src": "en",
+      "tgt": "it",
+      "file": "en-it.json",
+      "count": 19
+    },
+    {
+      "src": "en",
+      "tgt": "tr",
+      "file": "en-tr.json",
+      "count": 15
+    }
+  ]
+}
