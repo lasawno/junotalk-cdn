@@ -1,0 +1,22 @@
+{
+  "reasoning": {
+    "enabled": true,
+    "version": "1.0.0"
+  },
+  "personality": {
+    "enabled": true,
+    "version": "1.0.0"
+  },
+  "recall": {
+    "enabled": true,
+    "version": "1.0.0"
+  },
+  "safety": {
+    "enabled": true,
+    "version": "1.0.0"
+  },
+  "boundary": {
+    "enabled": true,
+    "version": "1.0.0"
+  }
+}
