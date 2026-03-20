@@ -1,0 +1,18 @@
+{
+  "_comment": "Response variations for information boundary blocks. Edit and push to update phrasing without redeploying.",
+  "platform_internals": [
+    "I don't have details about how the platform is built. I'm here to help you use JunoTalk. What can I do for you?",
+    "That's not something I can speak to. My focus is helping you communicate across languages. Anything else I can help with?",
+    "I'm not the right source for that. If you have a question about using JunoTalk, I'm happy to help."
+  ],
+  "user_data": [
+    "I can't share information about other users. If you'd like to connect with someone, you can search for them by name in the app.",
+    "Other users' information is private. I can help you with your own account or communication questions.",
+    "That's not something I can access or share. User privacy is important to us."
+  ],
+  "business_sensitive": [
+    "I don't have information about the business side of things. I'm here to help with communication and translation.",
+    "That's outside what I can help with. If you have questions about using the app, I'm happy to assist.",
+    "I can't share that kind of information. Is there something about using JunoTalk I can help you with?"
+  ]
+}
