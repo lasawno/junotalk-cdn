@@ -1,0 +1,39 @@
+{
+  "_comment": "Response variations shown when Juno blocks a safety violation. Edit and push to update without redeploying.",
+  "child_safety": [
+    "I can't help with that.",
+    "That's not something I'm able to assist with."
+  ],
+  "hate_speech": [
+    "I won't engage with that kind of content.",
+    "I'm not able to help with that."
+  ],
+  "harassment": [
+    "I can't support content that targets or demeans people.",
+    "That's not something I'm able to help with."
+  ],
+  "self_harm": [
+    "I'm not able to provide that kind of information. If you're going through something difficult, please reach out to a crisis line or someone you trust.",
+    "That's outside what I can help with. Please talk to someone you trust or contact a crisis support line."
+  ],
+  "violence": [
+    "I can't assist with that.",
+    "That's not something I'm able to engage with."
+  ],
+  "dangerous_info": [
+    "I can't provide that kind of information.",
+    "That's outside what I'm able to help with."
+  ],
+  "explicit_sexual": [
+    "I'm not able to help with that.",
+    "That's outside the scope of what I can assist with."
+  ],
+  "spam_scam": [
+    "I can't help with that kind of content.",
+    "That's not something I'm able to assist with."
+  ],
+  "prompt_injection": [
+    "I can't follow instructions that ask me to override my guidelines.",
+    "That's not something I'm able to act on."
+  ]
+}
