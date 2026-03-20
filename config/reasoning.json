@@ -1,0 +1,29 @@
+{
+  "enabled": true,
+  "complexityThreshold": 0.6,
+  "maxDecompositionSteps": 4,
+  "confidenceFloor": 0.4,
+  "intentsRequiringReasoning": [
+    "multi-request",
+    "conditional",
+    "comparison",
+    "explanation"
+  ],
+  "decompositionRules": [
+    {
+      "pattern": "(?:and also|and then|but first|after that|plus|additionally)",
+      "splitStrategy": "sequential",
+      "description": "Sequential multi-part requests"
+    },
+    {
+      "pattern": "(?:if.*then|whether.*or|depending on|in case)",
+      "splitStrategy": "conditional",
+      "description": "Conditional logic in queries"
+    },
+    {
+      "pattern": "(?:compare|difference between|versus|vs\\.?|better than)",
+      "splitStrategy": "parallel",
+      "description": "Comparison requests requiring parallel analysis"
+    }
+  ]
+}
