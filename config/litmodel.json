@@ -1,8 +1,0 @@
-{
-  "enabled": true,
-  "model": "google/gemma-3-1b-it:free",
-  "provider": "openrouter",
-  "sample_rate": 0.25,
-  "max_tokens": 200,
-  "offline_fallback": true
-}
