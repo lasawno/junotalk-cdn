@@ -1,0 +1,40 @@
+{
+  "_version": "1.0.0",
+  "_lastUpdated": "2026-03-26T03:01:27.213Z",
+  "_updatedBy": "project-state init",
+  "cdnKeys": [
+    "GEMINI_API_KEY",
+    "ANTHROPIC_API_KEY",
+    "OPENAI_API_KEY",
+    "MOONSHOT_API_KEY",
+    "HF_TOKEN",
+    "ENCRYPTION_KEY",
+    "RECAPTCHA_SECRET_KEY",
+    "YOUTUBE_INTERNAL_KEY",
+    "DEEPSEEK_API_KEY",
+    "OPENROUTER_API_KEY"
+  ],
+  "neverHardcode": "No API key values should ever be hardcoded in source code. All keys load exclusively from the GitHub CDN (config/api-keys.json) with Replit secret as fallback. Never add inline literal key values to server/api-keys.ts.",
+  "securityRules": [
+    "No hardcoded API key literals anywhere in the codebase.",
+    "All keys in cdnKeys[] are stored in config/api-keys.json on the CDN — do not add fallback literals for them.",
+    "GITHUB_TOKEN and Replit integration keys (AI_INTEGRATIONS_*) remain env-only and are never moved to the CDN.",
+    "SecretsGuard scrubs all keys from logs and API responses at runtime."
+  ],
+  "migrations": [
+    {
+      "date": "2026-03-26T00:00:00.000Z",
+      "description": "YOUTUBE_INTERNAL_KEY moved to GitHub CDN. Hardcoded fallback removed from server/api-keys.ts.",
+      "files": [
+        "server/api-keys.ts"
+      ]
+    }
+  ],
+  "architectureDecisions": [
+    {
+      "date": "2026-03-26T00:00:00.000Z",
+      "decision": "All API keys are loaded exclusively from the GitHub CDN with no hardcoded fallback values.",
+      "rationale": "Prevents static analysis false positives, keeps secrets out of source code, and centralises key rotation."
+    }
+  ]
+}
