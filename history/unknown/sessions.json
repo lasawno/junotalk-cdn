@@ -1,0 +1,28 @@
+{
+  "sessions": [
+    {
+      "id": "sess_1774653680563_nbwaf",
+      "title": "Travel plans",
+      "createdAt": "2026-03-27T23:21:20.564Z",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Travel plans"
+        },
+        {
+          "role": "assistant",
+          "content": "Travel plans"
+        },
+        {
+          "role": "user",
+          "content": "My travel plans today is to go to Mexico"
+        },
+        {
+          "role": "assistant",
+          "content": "My travel plans today is to go to Mexico"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-03-27T23:21:20.860Z"
+}
