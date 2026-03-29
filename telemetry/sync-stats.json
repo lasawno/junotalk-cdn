@@ -1,11 +1,11 @@
 {
-  "osint": 5,
-  "neo4j": 5,
+  "osint": 0,
+  "neo4j": 0,
   "wikidata": 4,
   "culture": 0,
   "deduplicated": 0,
-  "total": 14,
-  "timestamp": "2026-03-29T19:17:03.534Z",
-  "syncedAt": "2026-03-29T19:17:18.434Z",
+  "total": 4,
+  "timestamp": "2026-03-29T19:23:21.376Z",
+  "syncedAt": "2026-03-29T19:23:23.716Z",
   "reasoning": "openrouter"
 }
