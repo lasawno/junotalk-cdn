@@ -1,11 +1,11 @@
 {
   "osint": 5,
-  "neo4j": 5,
-  "wikidata": 4,
+  "neo4j": 0,
+  "wikidata": 0,
   "culture": 0,
-  "feeds": 5,
-  "user-context": 5,
-  "domain": 15,
+  "feeds": 0,
+  "user-context": 0,
+  "domain": 0,
   "phrases": 5,
   "languages": 9,
   "intents": 5,
@@ -13,8 +13,8 @@
   "regulations": 9,
   "entities": 10,
   "deduplicated": 0,
-  "total": 83,
-  "timestamp": "2026-03-30T11:35:00.263Z",
-  "syncedAt": "2026-03-30T11:35:28.062Z",
+  "total": 49,
+  "timestamp": "2026-03-30T12:33:45.366Z",
+  "syncedAt": "2026-03-30T12:34:36.385Z",
   "reasoning": "openrouter"
 }
