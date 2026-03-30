@@ -1,6 +1,6 @@
 {
   "osint": 0,
-  "neo4j": 5,
+  "neo4j": 0,
   "wikidata": 4,
   "culture": 0,
   "feeds": 5,
@@ -13,8 +13,8 @@
   "regulations": 9,
   "entities": 10,
   "deduplicated": 0,
-  "total": 78,
-  "timestamp": "2026-03-30T05:59:53.355Z",
-  "syncedAt": "2026-03-30T06:00:04.491Z",
+  "total": 73,
+  "timestamp": "2026-03-30T05:59:53.314Z",
+  "syncedAt": "2026-03-30T06:00:06.596Z",
   "reasoning": "openrouter"
 }
