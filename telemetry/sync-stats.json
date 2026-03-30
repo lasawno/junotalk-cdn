@@ -7,14 +7,14 @@
   "user-context": 5,
   "domain": 15,
   "phrases": 5,
-  "languages": 0,
+  "languages": 9,
   "intents": 5,
   "personas": 6,
   "regulations": 9,
   "entities": 10,
   "deduplicated": 0,
-  "total": 74,
-  "timestamp": "2026-03-30T21:22:52.333Z",
-  "syncedAt": "2026-03-30T21:24:27.733Z",
+  "total": 83,
+  "timestamp": "2026-03-30T21:23:18.433Z",
+  "syncedAt": "2026-03-30T21:24:39.832Z",
   "reasoning": "keyword-only"
 }
