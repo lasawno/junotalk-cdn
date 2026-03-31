@@ -1,6 +1,21 @@
 {
   "sessions": [
     {
+      "id": "sess_1774924692637_aj9s2",
+      "title": "Create a new calendar for 2026",
+      "createdAt": "2026-03-31T02:38:12.637Z",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Create a new calendar for 2026"
+        },
+        {
+          "role": "assistant",
+          "content": "I can't create a calendar for you, but I can help guide you on how to make one or point you to some tools you can use! If you're looking to create a custom calendar, there are various software options and online platforms that let you design one with your own photos and events. \n\nWould you like more details on tools or tips for specific types of calendars?"
+        }
+      ]
+    },
+    {
       "id": "sess_1774653680563_nbwaf",
       "title": "Travel plans",
       "createdAt": "2026-03-27T23:21:20.564Z",
@@ -24,5 +39,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-03-27T23:21:20.860Z"
+  "updatedAt": "2026-03-31T02:38:12.964Z"
 }
