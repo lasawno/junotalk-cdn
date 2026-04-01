@@ -1,5 +1,5 @@
 {
-  "osint": 5,
+  "osint": 0,
   "neo4j": 5,
   "wikidata": 4,
   "culture": 0,
@@ -13,8 +13,8 @@
   "regulations": 9,
   "entities": 10,
   "deduplicated": 0,
-  "total": 83,
-  "timestamp": "2026-04-01T16:10:36.826Z",
-  "syncedAt": "2026-04-01T16:11:29.226Z",
+  "total": 78,
+  "timestamp": "2026-04-01T16:23:55.333Z",
+  "syncedAt": "2026-04-01T16:24:01.837Z",
   "reasoning": "keyword-only"
 }
