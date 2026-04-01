@@ -1,6 +1,6 @@
 {
   "osint": 5,
-  "neo4j": 0,
+  "neo4j": 5,
   "wikidata": 4,
   "culture": 0,
   "feeds": 5,
@@ -13,8 +13,8 @@
   "regulations": 9,
   "entities": 10,
   "deduplicated": 0,
-  "total": 78,
-  "timestamp": "2026-04-01T19:30:37.252Z",
-  "syncedAt": "2026-04-01T19:31:41.388Z",
+  "total": 83,
+  "timestamp": "2026-04-01T20:13:25.391Z",
+  "syncedAt": "2026-04-01T20:13:35.848Z",
   "reasoning": "keyword-only"
 }
