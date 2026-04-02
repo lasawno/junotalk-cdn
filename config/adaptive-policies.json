@@ -1,18 +1,16 @@
 {
   "version": "1.0.0",
-  "updated": "2026-04-02",
-  "description": "Juno adaptive decision policies — significance, curiosity, surprise learning, trust threshold",
   "significance": {
     "highKeywords": [
-      "urgent", "emergency", "critical", "important", "serious", "deadline",
-      "crisis", "help me", "need help", "danger", "decision", "invest",
-      "money", "legal", "medical", "health", "advice", "should i",
-      "what do i do", "how do i fix", "broken", "failed"
+      "urgent","emergency","critical","important","serious","deadline",
+      "crisis","help me","need help","dying","danger","decision",
+      "invest","money","legal","medical","health","advice",
+      "should i","what do i do","how do i fix","broken","failed"
     ],
     "lowKeywords": [
-      "hi", "hello", "hey", "lol", "haha", "ok", "okay", "cool",
-      "nice", "great", "thanks", "bye", "yes", "no", "sure",
-      "what's up", "how are you", "good morning", "good night"
+      "hi","hello","hey","lol","haha","ok","okay","cool",
+      "nice","great","thanks","bye","later","yes","no","sure",
+      "what's up","how are you","good morning","good night"
     ],
     "highThreshold": 2,
     "lowThreshold": 1
@@ -20,9 +18,9 @@
   "curiosity": {
     "enabled": true,
     "noveltyKeywords": [
-      "what if", "imagine", "hypothetically", "idea", "concept", "theory",
-      "never heard", "new to", "wondering", "curious", "explore", "discover",
-      "could", "might", "would", "possibility", "future", "different"
+      "what if","imagine","hypothetically","idea","concept","theory",
+      "never heard","new to","wondering","curious","explore","discover",
+      "could","might","would","possibility","future","different"
     ],
     "minHistoryLength": 2,
     "cooldownTurns": 3
@@ -30,23 +28,22 @@
   "surpriseLearning": {
     "enabled": true,
     "correctionSignals": [
-      "actually", "that's wrong", "you're wrong", "incorrect", "no that's",
-      "not quite", "not exactly", "that's not right", "wait no", "i meant",
-      "correction", "mistake", "wrong", "no no", "that's incorrect"
+      "actually","that's wrong","you're wrong","incorrect","no that's",
+      "not quite","not exactly","that's not right","wait no","i meant",
+      "correction","mistake","wrong","no no","that's incorrect"
     ],
     "shiftSignals": [
-      "anyway", "forget that", "let's change", "different topic",
-      "actually never mind", "let me rephrase", "i changed my mind",
-      "switch to", "actually let's"
+      "anyway","forget that","let's change","different topic","actually never mind",
+      "let me rephrase","i changed my mind","switch to","actually let's"
     ]
   },
   "trustThreshold": {
     "lowTrustTurns": 3,
     "highTrustTurns": 10,
     "confirmationActions": [
-      "delete", "remove", "reset", "clear", "send to everyone",
-      "share my location", "give my number", "reveal", "publish",
-      "post publicly", "broadcast"
+      "delete","remove","reset","clear","send to everyone",
+      "share my location","give my number","reveal","publish",
+      "post publicly","broadcast"
     ]
   }
 }
