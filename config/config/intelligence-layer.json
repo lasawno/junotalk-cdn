@@ -1,0 +1,91 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-04-02",
+  "description": "Juno Intelligence Layer — 8 capability modules. All thresholds and keyword lists tunable here without code deploys.",
+  "momentum": {
+    "stallWordCountThreshold": 5,
+    "stallTurnCount": 3,
+    "accelerationWordCountThreshold": 30,
+    "accelerationTurnCount": 3
+  },
+  "cognitiveLoad": {
+    "highWordCount": 60,
+    "highQuestionCount": 3,
+    "confusionSignals": [
+      "i don't understand", "i'm confused", "what do you mean",
+      "can you explain", "not sure what", "lost me", "unclear",
+      "don't get it", "help me understand", "what does that mean",
+      "i'm not following", "could you clarify", "makes no sense"
+    ],
+    "overwhelmSignals": [
+      "too much", "information overload", "slow down", "one at a time",
+      "step by step", "that's a lot", "overwhelming", "too many things"
+    ]
+  },
+  "goalPersistence": {
+    "intentPrefixes": [
+      "i want to", "i need to", "i'm trying to", "my goal is", "i'm working on",
+      "help me", "i'd like to", "can you help me", "i'm building", "i want",
+      "trying to figure out", "i need help with", "how do i", "how can i"
+    ],
+    "completionSignals": [
+      "that worked", "perfect", "exactly what i needed", "solved it",
+      "got it", "thanks that's it", "done", "figured it out", "fixed",
+      "that's what i was looking for"
+    ],
+    "maxGoalAgeturns": 12
+  },
+  "ambiguity": {
+    "ambiguousSignals": [
+      "or", "maybe", "either", "not sure which", "could be",
+      "depends", "several ways", "not certain", "various", "multiple options"
+    ],
+    "clarificationThreshold": 2
+  },
+  "redundancy": {
+    "enabled": true,
+    "similarityWindowTurns": 4,
+    "keywordOverlapThreshold": 0.6
+  },
+  "timeSensitivity": {
+    "urgentKeywords": [
+      "asap", "urgent", "emergency", "right now", "immediately",
+      "as soon as possible", "can't wait", "must be done", "critical", "now"
+    ],
+    "deadlineKeywords": [
+      "deadline", "by tomorrow", "by tonight", "due today", "due soon",
+      "before", "by monday", "by friday", "end of day", "eod", "this week",
+      "by morning", "in an hour", "in 30 minutes", "in a few minutes"
+    ],
+    "softTimeKeywords": [
+      "soon", "eventually", "at some point", "when i can", "no rush",
+      "whenever", "take your time", "sometime"
+    ]
+  },
+  "knowledgeBoundary": {
+    "uncertaintyTopics": [
+      "latest", "recent news", "today's", "this week's", "current stock",
+      "real-time", "live data", "today", "right now in the world",
+      "predict", "will happen", "forecast"
+    ],
+    "outOfBoundsTopics": [
+      "personal medical advice", "legal advice for my case", "diagnose me",
+      "my specific tax situation", "hack into", "bypass security",
+      "my personal data", "track someone", "classified"
+    ],
+    "timeHorizonKeywords": [
+      "after 2024", "in 2025", "this year", "last month", "yesterday",
+      "breaking news", "just happened"
+    ]
+  },
+  "confidence": {
+    "lowConfidenceTopics": [
+      "predict", "future", "will it", "guarantee", "certain",
+      "for sure", "100%", "definitely will", "promise me"
+    ],
+    "highConfidenceTopics": [
+      "how does", "what is", "explain", "define", "describe",
+      "basics of", "overview of", "history of", "what are"
+    ]
+  }
+}
