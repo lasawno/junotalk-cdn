@@ -10,11 +10,11 @@
   "languages": 9,
   "intents": 5,
   "personas": 6,
-  "regulations": 9,
+  "regulations": 0,
   "entities": 10,
   "deduplicated": 0,
-  "total": 83,
-  "timestamp": "2026-04-02T19:13:23.911Z",
-  "syncedAt": "2026-04-02T19:17:22.201Z",
+  "total": 74,
+  "timestamp": "2026-04-02T19:14:48.300Z",
+  "syncedAt": "2026-04-02T19:17:38.233Z",
   "reasoning": "keyword-only"
 }
