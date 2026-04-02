@@ -1,0 +1,598 @@
+{
+  "es:010e4d34cba5ed6581d6ee71ed687c41e5f85873c0ed392c3a6fd4aca5663e01": {
+    "v": "Hola",
+    "exp": 1775768220991
+  },
+  "es:26e97f90842b1cb9e5b2b3190feb064af76c3fc82d415cb5154feb37b1fb8a75": {
+    "v": "Hola",
+    "exp": 1775768222490
+  },
+  "es:82c015dbdc556138bd6beadd926764669ec08b406ba9f3547ec84ea352dbb444": {
+    "v": "Adiós",
+    "exp": 1775768222599
+  },
+  "es:f319b41dfda4434c19b8650ef9d690c5a1be9a8ebd8b6f36d2e3eb06bc3744a1": {
+    "v": "Buenos días",
+    "exp": 1775768222918
+  },
+  "es:2c1dee671f236a046738312fbd145686e0c957d367c9524067c9a1c3f8602595": {
+    "v": "Buenas noches",
+    "exp": 1775768222965
+  },
+  "es:dac8c7876cfa97597f24aaca1dd1e9d5562d38e44fd1dd7e2b71327665399127": {
+    "v": "Gracias",
+    "exp": 1775768223040
+  },
+  "es:b5a982c81d756f4254392aed655febebd19dadd41f820cecd9f713024efe4334": {
+    "v": "Muchas gracias",
+    "exp": 1775768223066
+  },
+  "es:31455fef9a01fa20e41f66450fdbe6102d22435a2b6a94c56ccb1a41d960bb5c": {
+    "v": "De nada",
+    "exp": 1775768223092
+  },
+  "es:01beeb9376479097b36906e9cca5dcd216822ed4e34a7ba66d45a12664032480": {
+    "v": "Por favor",
+    "exp": 1775768223118
+  },
+  "es:e149bc9c66de1f5c2273c68581aaa5d09e17c13cf2a595ddea10693593c2bf89": {
+    "v": "Lo siento",
+    "exp": 1775768223145
+  },
+  "es:32f29a2a961c769f892783cab06e550eb2011882ff3f8aa6f69b4530fcc0a396": {
+    "v": "Perdona",
+    "exp": 1775768223185
+  },
+  "es:d076deef6d9becd521a8bc11559c89fe4c0811ddaf60632ddb7a5ec05af8ce49": {
+    "v": "¿Cómo estás?",
+    "exp": 1775768223219
+  },
+  "es:468919330f12a895fe18622332273401f691b3ca22a3db33baa7e7b44f251cb0": {
+    "v": "Estoy bien, gracias",
+    "exp": 1775768223250
+  },
+  "es:c27b85eb61f7de62a48fc439204485f156be87abe748bf9a894066f0c1ad4e96": {
+    "v": "¿Cómo te llamas?",
+    "exp": 1775768223278
+  },
+  "es:3ae4c3ecca210ad6f75610ca8b4faba5872f90b8164519427bf2e1976da2b8a4": {
+    "v": "Me llamo",
+    "exp": 1775768223304
+  },
+  "es:42db1ae131c7449c4eafa5a0e5a338d04f882321cacfaf92bc428033c841e3d0": {
+    "v": "Sí",
+    "exp": 1775768223331
+  },
+  "es:ba3208cbc9cc6f99b5e145b02da47a99e8579799cb279a906eaa049c9856a145": {
+    "v": "No",
+    "exp": 1775768223364
+  },
+  "es:6f1587829c0198b3c073e361ad84cc0726c6dabdc85f8f41d03a15e9af036a6b": {
+    "v": "Ayuda",
+    "exp": 1775768223396
+  },
+  "es:e52e5975dc7c12adfee7c51ae96ffd5a7fc5a2645597fc4fcd3d7153958cda34": {
+    "v": "No entiendo",
+    "exp": 1775768223421
+  },
+  "es:2b67ffaaf0ba1b29bde56ef5772190794f2be450aa24e66338dbd0becb9e9964": {
+    "v": "¿Hablas inglés?",
+    "exp": 1775768223448
+  },
+  "fr:11f01c7eceeb2149af4010ae990a6adf1a420bbb45b2ae5e5457388e1d729c74": {
+    "v": "Bonjour",
+    "exp": 1775768223474
+  },
+  "fr:d4a4e48effded7e72455bc72014b74cdce526f8f3c56945eda70a075077e6a9d": {
+    "v": "Salut",
+    "exp": 1775768223500
+  },
+  "fr:04a5d625d529d4e5ac80717f717d0fa85d0f02d1673b53e7e3aa5ecbed5c5e38": {
+    "v": "Au revoir",
+    "exp": 1775768223536
+  },
+  "fr:4e96053dab68388e012055a48716ddbd9d434b5becb52e2dd336d7ba957263da": {
+    "v": "Bonjour",
+    "exp": 1775768223562
+  },
+  "fr:df01052cdd3ca1b38ec04f98d3dadd01fc187f16826614c1833bced2f22bf9e0": {
+    "v": "Bonne nuit",
+    "exp": 1775768223601
+  },
+  "fr:e63c66bda9bcc1f0e9b71f3532c060f9c340d2d44568cc7ea584b4a9ee156195": {
+    "v": "Merci",
+    "exp": 1775768223628
+  },
+  "fr:ec5f7a3b9635154a787704a58ccc05b65ae3a03faeb036734cf21b58d51e5bd7": {
+    "v": "Merci beaucoup",
+    "exp": 1775768223657
+  },
+  "fr:c5e69b3a1de8e8bc7d91f3f04bb69f6959c0f47b6112fbd953de73c636ef9a04": {
+    "v": "De rien",
+    "exp": 1775768223747
+  },
+  "fr:fccd2d07e22424927558974bb30e38eadb909e59fce1ac13e73b3d8dd9984ce7": {
+    "v": "S'il vous plaît",
+    "exp": 1775768223779
+  },
+  "fr:62f3fd58d29f3f58c02ca858fd191d9c814333249211dece3eeea0e4da154d46": {
+    "v": "Désolé",
+    "exp": 1775768223838
+  },
+  "fr:48511cccd9ba15829f239d41091dffada5e12fffef9151b2a4ed9a55ecb64157": {
+    "v": "Excusez-moi",
+    "exp": 1775768223867
+  },
+  "fr:4c9b254fd7457682cba2cf5e410c4d346ac088a539309cf469c6530502e14937": {
+    "v": "Comment allez-vous ?",
+    "exp": 1775768223894
+  },
+  "fr:c2ff16ae2842c6f01f8fa7470ae3250dd983dfb9a36530322115a32d3bdf3346": {
+    "v": "Je vais bien, merci",
+    "exp": 1775768223920
+  },
+  "fr:4d62c5db0ff9168306a538732e49f096bc1aa07ddb91ea4613f8f5433d43d740": {
+    "v": "Oui",
+    "exp": 1775768223946
+  },
+  "fr:7b39eae9d42f2521ceec81091d2a89acac7dd5fd4daf81a14cbdb120dec33857": {
+    "v": "Non",
+    "exp": 1775768223972
+  },
+  "fr:54f0adaa23b9bd67964d9582839ceb311d2a2edf2c9fbb4edbe07402573dd6db": {
+    "v": "Aide",
+    "exp": 1775768223998
+  },
+  "fr:f50fa60517853a11d0c1805cb63d03b947291bfe4a82fdfdbabdd15f6d682ad7": {
+    "v": "Je ne comprends pas",
+    "exp": 1775768224024
+  },
+  "de:d23ecfbe6cf7f0235121edc4cae89823d07ab7c6d9f2df28c1b304f2317e4707": {
+    "v": "Hallo",
+    "exp": 1775768224051
+  },
+  "de:c133c82858a131de1a7276165f816d65579d95a40ff44c318fd605ce25740472": {
+    "v": "Hallo",
+    "exp": 1775768224077
+  },
+  "de:938c1f00a183349353bb57a0a38925736ec727c9c2ed54e24dd981a3ef12ffaf": {
+    "v": "Auf Wiedersehen",
+    "exp": 1775768224103
+  },
+  "de:3167f27063f16b5a98a47713e3162bf8c60ee340be1b9aa127be3ebbced1a7bd": {
+    "v": "Guten Morgen",
+    "exp": 1775768224129
+  },
+  "de:a32f585aa51be1f52e846dfdbc00ce2bfa12099de7900759439825fe4dd60d1d": {
+    "v": "Gute Nacht",
+    "exp": 1775768224156
+  },
+  "de:48ac3978c8ec084a92dbb2c3991a4c2ad0e008638c2e4991c3b6cae7d9a2563c": {
+    "v": "Danke",
+    "exp": 1775768224182
+  },
+  "de:08991b6071cf36d77284813ff79f54d8ae4d567303a6598cb13275b958017ba5": {
+    "v": "Vielen Dank",
+    "exp": 1775768224208
+  },
+  "de:e80d46d9d0de5efaf411458f1457981aaba04769f3d4f74d3b434717c5f87c27": {
+    "v": "Bitte",
+    "exp": 1775768224234
+  },
+  "de:1d0673e863673a001456714e3c88e7340959af5faa101cc75f3cd7183a4499e5": {
+    "v": "Bitte",
+    "exp": 1775768224260
+  },
+  "de:801b99251680e814435d8d49c74f8e8f3561e4dffe33b8efef57e9f9d9ad7e91": {
+    "v": "Es tut mir leid",
+    "exp": 1775768224286
+  },
+  "de:52e660d7f7e54de8de5f12df28f8bfd0f9ae1706085543e1e786f69e9ee9e2a4": {
+    "v": "Entschuldigung",
+    "exp": 1775768224312
+  },
+  "de:80436deb59702cf33104019d23f364e173504d2a80b9612ddf84885a61c3102c": {
+    "v": "Wie geht es Ihnen?",
+    "exp": 1775768224338
+  },
+  "de:a34337ce3b2ebd0a6a7367e30de11444ffd9c8f8997bcb18905057fae55829d5": {
+    "v": "Ja",
+    "exp": 1775768224364
+  },
+  "de:59b7565dbb9a6cada90d609db7b546a684bbde7e4b473de794342d86b1f39685": {
+    "v": "Nein",
+    "exp": 1775768224390
+  },
+  "de:2d36c054ba08dcfdf4810caff09f6d23f6d5be2e3c3d6e3d27b6c932c4ee1db9": {
+    "v": "Hilfe",
+    "exp": 1775768224416
+  },
+  "de:bed03530cd341bbf9adca85021093896ae48f249f7838817f060c1d40ae65c51": {
+    "v": "Ich verstehe nicht",
+    "exp": 1775768224442
+  },
+  "pt:3d7856757eb5bbbef03a243c9342d1f8161f65e7534eeb31489a6a0f18bc42df": {
+    "v": "Olá",
+    "exp": 1775768224469
+  },
+  "pt:1155e192120afdbe7ef136097bd3202f6d17fcabcaa82f9d3675fe25a08c3924": {
+    "v": "Oi",
+    "exp": 1775768224495
+  },
+  "pt:471c3280c0297ed2f16cda5b5f097d04bf80bdcf9d9aa6e39ee1e8d7de92b955": {
+    "v": "Adeus",
+    "exp": 1775768224520
+  },
+  "pt:dd83eb687249761acf5eeac8b473348904993197030f138f4af33c89b3d58990": {
+    "v": "Bom dia",
+    "exp": 1775768224546
+  },
+  "pt:e276dea64b8453fefd99519ab2663c382c405ab80e0cccf39b53e045790affc3": {
+    "v": "Boa noite",
+    "exp": 1775768224572
+  },
+  "pt:a0dcad82966d0712fd7c9a9782f7b7fba10261efadf28fb9d5f2de1d4903d6e8": {
+    "v": "Obrigado",
+    "exp": 1775768224598
+  },
+  "pt:52db131660af25aa1a6fc001e321d3ee38d9fa7f3820e8c6718b452becebef9c": {
+    "v": "Muito obrigado",
+    "exp": 1775768224625
+  },
+  "pt:0c0b8514687afc7501e156e3bb6cce4be16d21086152c9cc3860ed6b08523a56": {
+    "v": "De nada",
+    "exp": 1775768224651
+  },
+  "pt:e985733137a4f3b019b7df6e0de245c44f3bae444e065cc687d1339446fd9a76": {
+    "v": "Por favor",
+    "exp": 1775768224677
+  },
+  "pt:7f7a71ab17681887e36d92fbdab49c0e43be813917011de00a3f904a6bd58cf6": {
+    "v": "Desculpe",
+    "exp": 1775768224703
+  },
+  "pt:bbb58cfa697639ee9300fadb2a6a9ce7784fe0595e7cee2e08768ce65b8792f2": {
+    "v": "Como você está?",
+    "exp": 1775768224729
+  },
+  "pt:25d624e9dc18c92ee2bb010954ada29b524beb240c7b2abfb2d70bd909c5fcf2": {
+    "v": "Sim",
+    "exp": 1775768224755
+  },
+  "pt:51bb7bbc519c482076c2278f4e848eb2573014715d3284339854b99385c6332a": {
+    "v": "Não",
+    "exp": 1775768224781
+  },
+  "pt:6de31594c9c34d7f9a7fe09dd3c1c62886018e8d81c07bdbe21b9eefb3a91467": {
+    "v": "Ajuda",
+    "exp": 1775768224807
+  },
+  "pt:c9393df8f178b0d8234ebc37e49a0fdf0ee039150474ba3f7366ce0f40e140ae": {
+    "v": "Não entendo",
+    "exp": 1775768224833
+  },
+  "ja:5142995f7be3bb56814a91ffc6e0f14295e138b5c570eaf187753648fa8713f9": {
+    "v": "こんにちは",
+    "exp": 1775768224859
+  },
+  "ja:573f32aea7f8007fef525a70a3ab663059ad8c3825471f4e673e735077378037": {
+    "v": "やあ",
+    "exp": 1775768224885
+  },
+  "ja:43751c695b085ec3480f16e167f9c871a2b2576b8c50ab510df1feaa2383b362": {
+    "v": "さようなら",
+    "exp": 1775768224911
+  },
+  "ja:3b6eddf5b030c194f6dc1bf84d0f060f6c8ddb07baea09d6b8781b042231ff1f": {
+    "v": "おはようございます",
+    "exp": 1775768224937
+  },
+  "ja:af13549007e80a1835622c72cbabc88c2d97051eea185d97d6877f1b7c7b1cd6": {
+    "v": "おやすみなさい",
+    "exp": 1775768224963
+  },
+  "ja:911fd06b48a6acb790e90f04270698fa811cd74c9bac49b1036bb9b2d348dea1": {
+    "v": "ありがとう",
+    "exp": 1775768224989
+  },
+  "ja:4daa2a1edef7c37e668f795c6445032c7f02a71f3249946a2457380c60a219f5": {
+    "v": "ありがとうございます",
+    "exp": 1775768225015
+  },
+  "ja:77769429092b2270a595e32e1956b73192593fee02b56941c0f2dc29aaa8a383": {
+    "v": "どういたしまして",
+    "exp": 1775768225041
+  },
+  "ja:9b106f4dd86d61cf6dec27ace6373e4522e3e51afefd9a564fd48a741831fed3": {
+    "v": "お願いします",
+    "exp": 1775768225067
+  },
+  "ja:1fba790f15c9e40b1aeaac9a6c3909f9448abaa8ba024ddd5ca8693f57bf09a2": {
+    "v": "すみません",
+    "exp": 1775768225093
+  },
+  "ja:321c71cf65ce3fe2bb0d3a9d832e0bde2ded3f634a835b5291a15ae0e2008afd": {
+    "v": "お元気ですか？",
+    "exp": 1775768225119
+  },
+  "ja:e55c9a2e4e6c028998adeda591b936eeccbcc1db54166c6efa9aa8080f3794d8": {
+    "v": "はい",
+    "exp": 1775768225145
+  },
+  "ja:461673047985a0145a14fcfb5a82a97956b246c8c7718597aa58a404dea6e511": {
+    "v": "いいえ",
+    "exp": 1775768225171
+  },
+  "ja:7c16d26f7cbce123a68cb3d29ea002b8a76ae7c88116085e85ad9654125ec948": {
+    "v": "ヘルプ",
+    "exp": 1775768225197
+  },
+  "ja:04ae6b5e90da9a730355572bfa3d4e22f6c664ba92c89af3b38e4586b2af1847": {
+    "v": "わかりません",
+    "exp": 1775768225223
+  },
+  "zh:86848482ffcb1e02b3da94c5b9f19c8e10899f4cf773d4c4dcc138e2d1a9b176": {
+    "v": "你好",
+    "exp": 1775768225249
+  },
+  "zh:b0e03267ebe06fa4e15aa964826632b232568ec3780fbf52df57548e276f8237": {
+    "v": "嗨",
+    "exp": 1775768225275
+  },
+  "zh:0900ea5fb4b748c1ea3e95dfd0e819fb9932d53ab84aa33f65a6a8167c31017d": {
+    "v": "再见",
+    "exp": 1775768225301
+  },
+  "zh:c46b6b53a93844e9109cee39d70a68e5b2b81c361bc0818d6b9d5064c2bd0a06": {
+    "v": "早上好",
+    "exp": 1775768225327
+  },
+  "zh:9a6bcd65b07ece085d54d1428e020f4a1beca1c5dc6d92d94de8df4d5f8a6999": {
+    "v": "晚安",
+    "exp": 1775768225353
+  },
+  "zh:dabd1f89c0924796480726f83a2d767dacdf2957577cd34e11f58c6620a70239": {
+    "v": "谢谢",
+    "exp": 1775768225379
+  },
+  "zh:9cee08303e7bd27b5a9f369842f9de4fd50e074a0a2e677b94f9431714e628e8": {
+    "v": "非常感谢",
+    "exp": 1775768225405
+  },
+  "zh:20f005ba2244f1d4e2d836268aba2c8bbaea27f0c5c20340b8067929a3ba06ea": {
+    "v": "不客气",
+    "exp": 1775768225439
+  },
+  "zh:5a8d9086648c443b10874c86be5a0bbfcc6fb0f761e1f07c4419dd358420ba34": {
+    "v": "请",
+    "exp": 1775768225465
+  },
+  "zh:0ba468e833e8464697621079120f6024bf1acf100bba36bec1962e5a8103ec71": {
+    "v": "对不起",
+    "exp": 1775768225491
+  },
+  "zh:4c00336a50c0ba747cdfcb86bb17caf2359025fa67f722bc242702667c63dc62": {
+    "v": "你好吗？",
+    "exp": 1775768225517
+  },
+  "zh:483c591a92bb431268f78d1fa00b55e3130bac0e255005e3cf93cd4112f47903": {
+    "v": "是的",
+    "exp": 1775768225543
+  },
+  "zh:b7e9478d66d45e336fdf53ef4ed13f555f261a2f14251f2bd9c3cdeb6768fbd3": {
+    "v": "不",
+    "exp": 1775768225569
+  },
+  "zh:03773077f0b4ae2c25841143bda70c0efa2ea34a4f35ca12c67eeb758783b638": {
+    "v": "帮助",
+    "exp": 1775768225595
+  },
+  "zh:0c0e57baabab4e378999e9628d7d37933f9983c62e0fbce9408c11010669a769": {
+    "v": "我不明白",
+    "exp": 1775768225621
+  },
+  "ar:1876fd99d30a0272330014e29d2b0d3f45342e9ee164fc67311842051d7fabf0": {
+    "v": "مرحبا",
+    "exp": 1775768225647
+  },
+  "ar:656a3e647574fd0f12ad776752770e0bc54a2e30044560a39573dc3025106017": {
+    "v": "وداعا",
+    "exp": 1775768225674
+  },
+  "ar:b52cfa61e3dd0438998f6bfbde967be8f9d0cc35f12dadc21cefbab7927d516c": {
+    "v": "صباح الخير",
+    "exp": 1775768225700
+  },
+  "ar:ccc340b58df87251c0dbc3f90a859e49ae0538baaec80446677a171a378c6b8c": {
+    "v": "تصبح على خير",
+    "exp": 1775768225726
+  },
+  "ar:913a71dcbc404f958981dde07113e2591e8e230638d3e1d5a36ca49478cdd648": {
+    "v": "شكراً",
+    "exp": 1775768225752
+  },
+  "ar:4bd74fcebfd410158176dbb1a22338e14990cc5fe9fb5991331206e32eaca587": {
+    "v": "شكراً جزيلاً",
+    "exp": 1775768225778
+  },
+  "ar:68f80044a37d8310e1204769a8db826c289d13f8e71b92028816827fdd8daa30": {
+    "v": "على الرحب والسعة",
+    "exp": 1775768225804
+  },
+  "ar:ece7a9b11f8066f8e4d8d830685adcb1c5fc21d60675867fcc90e2727da574c3": {
+    "v": "من فضلك",
+    "exp": 1775768225830
+  },
+  "ar:14e645b846a3280e424091b2bab639a609bc4011fd0bd3bad76c3d0b5c3bd411": {
+    "v": "آسف",
+    "exp": 1775768225856
+  },
+  "ar:3fb8229685d9db58d78bab997bc359b552872c419171710726c32cfff98943b0": {
+    "v": "نعم",
+    "exp": 1775768225882
+  },
+  "ar:4f8ab725bb55ef60a17714228a159a75a37837db1a0d77e77e26bacaa81d0f24": {
+    "v": "لا",
+    "exp": 1775768225908
+  },
+  "ar:d4ef59a86a68654f22a9d4082040dc0611b680b8a0d7b96b7d9bb70adee0e008": {
+    "v": "مساعدة",
+    "exp": 1775768225934
+  },
+  "it:b3b862f27ca9c347439e09221d91a80233113619328df4cda31dfb61a1c206b4": {
+    "v": "Ciao",
+    "exp": 1775768225960
+  },
+  "it:813312bfc37d0b16420815c30e7a746561af176ef61fefa41a08969f75262cfe": {
+    "v": "Arrivederci",
+    "exp": 1775768225986
+  },
+  "it:db1eda06ea40370a7e3e1f7837f21c014f69d494eda9fa69362818fc734ded03": {
+    "v": "Buongiorno",
+    "exp": 1775768226012
+  },
+  "it:69ca45bffaad9cb584e405a95d361ddb47154917437fb07a64f4aab7ef3fe024": {
+    "v": "Buonanotte",
+    "exp": 1775768226038
+  },
+  "it:b5e39c64a8939ab9c552fd538cb23cc7e6a11474c4f2381b179bd01afebaa542": {
+    "v": "Grazie",
+    "exp": 1775768226064
+  },
+  "it:9577305b379f01c2f0b17e4d09b4ab650f9725181b89f70e9bebebea80cc0b32": {
+    "v": "Grazie mille",
+    "exp": 1775768226090
+  },
+  "it:72b0df1f46f71936df7af9eeae9dd789ad02deb9a07335570ca5c6252b2530ec": {
+    "v": "Prego",
+    "exp": 1775768226116
+  },
+  "it:14ea63f5193bd06c832fea7b360e57f1438f2c6af95c4e85527251a0ff27a5cc": {
+    "v": "Per favore",
+    "exp": 1775768226142
+  },
+  "it:2f058d032f5aaf912650cfc1abbdcae21d25620ac4c8d7d8a4deacdefeea4bde": {
+    "v": "Mi dispiace",
+    "exp": 1775768226167
+  },
+  "it:7a4a4d7607f333bc163dfa3a551a2e4af12ee759208e13f1d40819b897517b31": {
+    "v": "Sì",
+    "exp": 1775768226193
+  },
+  "it:a721ae7ef262a5e78d30d7d96087f2ae8b50bb6c73c471f865585f622fd316ad": {
+    "v": "No",
+    "exp": 1775768226219
+  },
+  "it:86efa8573e9a68466d49a0331380196cca481bffc1531019dfb92933cd9484dd": {
+    "v": "Aiuto",
+    "exp": 1775768226245
+  },
+  "it:7ff55d197a9ed436a79d29f070f9f00f98bdaf251310eccbdbda123a4556172f": {
+    "v": "Non capisco",
+    "exp": 1775768226271
+  },
+  "ru:7be1764fb8db8aa6831a75ed3fde1765f50bf1e5d892cd687c435efe536143fb": {
+    "v": "Привет",
+    "exp": 1775768226296
+  },
+  "ru:e20298706e555f31f5cff87f7d1aca9e9a65e83b5b726cf545112047d16600f6": {
+    "v": "До свидания",
+    "exp": 1775768226322
+  },
+  "ru:83d774c0c110a75e462c392b1104c3c2de04faf4ef67a27963aeb6302b84235c": {
+    "v": "Доброе утро",
+    "exp": 1775768226348
+  },
+  "ru:9214b864257357df6a3268d62ffbed5e0922f0414a74bd01072fc1eef87368a8": {
+    "v": "Спокойной ночи",
+    "exp": 1775768226374
+  },
+  "ru:4060df57d089b677083b8688ed668099943bd57e88fb495c8b31b9f01e1c7361": {
+    "v": "Спасибо",
+    "exp": 1775768226400
+  },
+  "ru:e3f4a2c26e7d57a1b83c870300a76e1b19a8fd7d418735fa4e835047d9589a71": {
+    "v": "Большое спасибо",
+    "exp": 1775768226426
+  },
+  "ru:13eca81d0711ad6458e005c945593eb5bed066cc38e26a89bc05aba4f779ba0c": {
+    "v": "Пожалуйста",
+    "exp": 1775768226452
+  },
+  "ru:dece796e52dcc0307d93e1dc2d4bc5224c66f7cc1b883db3596d0095ef21c356": {
+    "v": "Пожалуйста",
+    "exp": 1775768226478
+  },
+  "ru:ef58f8668429b5daec92044c362e00ceac0d6dd32c7a8df5fee27d590dcf4843": {
+    "v": "Извините",
+    "exp": 1775768226504
+  },
+  "ru:2fc5d711b45df6507735181b46966c027e8aa818bf71a2e1d55edfc6274a9406": {
+    "v": "Да",
+    "exp": 1775768226530
+  },
+  "ru:8f7e533e52f6a16f507617b14872ad54a7d19948f4561c366faf2e25a10647a8": {
+    "v": "Нет",
+    "exp": 1775768226556
+  },
+  "ru:65b7e46c205b8ffe0fcd2b84a87916aaadf6a42148b3751121b1ee5435021da7": {
+    "v": "Помощь",
+    "exp": 1775768226581
+  },
+  "ru:39753bf2e69445f7016460df3eec40afdd9920600dd5ccb8f0bbb365458e64fe": {
+    "v": "Я не понимаю",
+    "exp": 1775768226607
+  },
+  "ko:9a706b6525a691745742a85dbcea04809e1573399b8513722b2d6d22aa642e4a": {
+    "v": "안녕하세요",
+    "exp": 1775768226633
+  },
+  "ko:2fdd958a9827e0d4d8f9873e912548f6a77dcc3bfb2755cd7725b7bef11e3abd": {
+    "v": "안녕히 가세요",
+    "exp": 1775768226659
+  },
+  "ko:cfe8ee46c8f235f419a79845f2a7559383e0ff204c863715e234fe4bac033b69": {
+    "v": "좋은 아침",
+    "exp": 1775768226685
+  },
+  "ko:5ada1a1dfb4b29c06bb3cf4e4a343ef8e779650df7ed5053f32b0d4586e73c52": {
+    "v": "잘 자요",
+    "exp": 1775768226711
+  },
+  "ko:aac5feb18a18be993a2d247fc097568c3c7350992217c449f95bc23c1c8f9d4f": {
+    "v": "감사합니다",
+    "exp": 1775768226736
+  },
+  "ko:5dbfc884e744ba4232d6f8d110615fd600c9966a296540a13df366d4e5f4bfab": {
+    "v": "정말 감사합니다",
+    "exp": 1775768226762
+  },
+  "ko:e7cfd8ca0e981588569c7dd8e8d5c9c7950737de56bd707bf56eaa63ff0f6f9b": {
+    "v": "천만에요",
+    "exp": 1775768226788
+  },
+  "ko:48fb7a43f3ae19a8605f9073cd448252413b4cd4f2f1fa1901abe69ad3d90264": {
+    "v": "부탁드립니다",
+    "exp": 1775768226986
+  },
+  "ko:0c4059557d4b47ae88bf07a9d974bb80a51bf73100411753dfa97bc9493e9b74": {
+    "v": "죄송합니다",
+    "exp": 1775768227027
+  },
+  "ko:cfefe21281292acd158e13b8a1a3fc247c5246e4b7225d503357331580d13904": {
+    "v": "네",
+    "exp": 1775768227053
+  },
+  "ko:b5e513635a501d75f805a1243166ebcd09b163e1472273f5b1a66b9268317870": {
+    "v": "아니요",
+    "exp": 1775768227082
+  },
+  "ko:55d9e95a845346a050f56829e8ab220ffa2b9d9e4ba49cff2c88fe61300938cf": {
+    "v": "도움",
+    "exp": 1775768227112
+  },
+  "ko:fb6409e4182ced9bf913727ae2177f1e05480dc5323809eada0a2d319a7f68d5": {
+    "v": "이해하지 못합니다",
+    "exp": 1775768227138
+  }
+}
