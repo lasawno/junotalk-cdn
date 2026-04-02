@@ -1,0 +1,49 @@
+{
+  "version": "1.2.0",
+  "updated": "2026-04-02",
+  "description": "JunoTalk translation intent config — loaded by server/translation-intent.ts",
+  "triggerKeywords": [
+    "translate", "translation", "traduire", "traducir", "übersetzen",
+    "翻译", "翻訳", "번역", "перевести", "traduzione", "tradução", "vertalen",
+    "traduzir", "tłumaczyć", "çevirmek",
+    "how do you say", "how to say", "how would you say", "how can you say", "how do i say",
+    "respond in", "answer in", "reply in", "write in", "speak in", "talk in"
+  ],
+  "patterns": {
+    "question": ["how do you say","how would you say","how can you say","how do i say","how to say"],
+    "mode_switch": ["respond in","answer in","reply in","speak in","write in","talk in","translate for me","can you translate","please translate","start translating"]
+  },
+  "confidenceThresholds": { "direct": 0.80, "question": 0.80, "mode_switch": 0.80 },
+  "languageMap": {
+    "english": "en", "inglés": "en", "anglais": "en",
+    "spanish": "es", "español": "es", "espanol": "es", "castellano": "es",
+    "french": "fr", "français": "fr", "francais": "fr",
+    "german": "de", "deutsch": "de", "allemand": "de",
+    "italian": "it", "italiano": "it",
+    "portuguese": "pt", "português": "pt", "brazilian": "pt",
+    "dutch": "nl", "nederlands": "nl",
+    "russian": "ru", "русский": "ru",
+    "japanese": "ja", "日本語": "ja",
+    "chinese": "zh", "中文": "zh", "mandarin": "zh", "cantonese": "zh",
+    "korean": "ko", "한국어": "ko",
+    "arabic": "ar", "عربي": "ar",
+    "hindi": "hi", "हिंदी": "hi",
+    "turkish": "tr", "türkçe": "tr",
+    "polish": "pl", "polski": "pl",
+    "swedish": "sv", "svenska": "sv",
+    "danish": "da", "dansk": "da",
+    "norwegian": "no", "norsk": "no",
+    "finnish": "fi", "suomi": "fi",
+    "greek": "el", "ελληνικά": "el",
+    "hebrew": "he", "עברית": "he",
+    "thai": "th", "ภาษาไทย": "th",
+    "vietnamese": "vi", "tiếng việt": "vi",
+    "indonesian": "id", "bahasa indonesia": "id",
+    "swahili": "sw", "kiswahili": "sw",
+    "bengali": "bn", "বাংলা": "bn",
+    "urdu": "ur", "اردو": "ur",
+    "persian": "fa", "farsi": "fa",
+    "tamil": "ta", "தமிழ்": "ta",
+    "tagalog": "tl", "filipino": "tl"
+  }
+}
