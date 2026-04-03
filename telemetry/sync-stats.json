@@ -1,9 +1,9 @@
 {
-  "osint": 5,
-  "neo4j": 5,
-  "wikidata": 4,
+  "osint": 0,
+  "neo4j": 0,
+  "wikidata": 0,
   "culture": 0,
-  "user-context": 5,
+  "user-context": 0,
   "domain": 15,
   "phrases": 5,
   "languages": 9,
@@ -12,8 +12,8 @@
   "regulations": 9,
   "entities": 10,
   "deduplicated": 0,
-  "total": 78,
-  "timestamp": "2026-04-03T20:39:34.575Z",
-  "syncedAt": "2026-04-03T20:39:43.182Z",
+  "total": 59,
+  "timestamp": "2026-04-03T20:59:24.529Z",
+  "syncedAt": "2026-04-03T20:59:31.394Z",
   "reasoning": "keyword-only"
 }
