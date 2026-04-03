@@ -6,15 +6,15 @@
   "feeds": 5,
   "user-context": 5,
   "domain": 15,
-  "phrases": 0,
+  "phrases": 5,
   "languages": 9,
   "intents": 5,
   "personas": 6,
   "regulations": 9,
   "entities": 10,
   "deduplicated": 0,
-  "total": 78,
-  "timestamp": "2026-04-02T23:39:10.600Z",
-  "syncedAt": "2026-04-02T23:39:53.000Z",
-  "reasoning": "openrouter"
+  "total": 83,
+  "timestamp": "2026-04-03T00:12:48.494Z",
+  "syncedAt": "2026-04-03T00:12:56.299Z",
+  "reasoning": "keyword-only"
 }
