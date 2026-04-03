@@ -3,7 +3,6 @@
   "neo4j": 5,
   "wikidata": 4,
   "culture": 0,
-  "feeds": 5,
   "user-context": 5,
   "domain": 15,
   "phrases": 5,
@@ -13,8 +12,8 @@
   "regulations": 9,
   "entities": 10,
   "deduplicated": 0,
-  "total": 83,
-  "timestamp": "2026-04-03T19:51:45.703Z",
-  "syncedAt": "2026-04-03T19:51:55.677Z",
+  "total": 78,
+  "timestamp": "2026-04-03T20:02:25.420Z",
+  "syncedAt": "2026-04-03T20:02:34.305Z",
   "reasoning": "keyword-only"
 }
