@@ -1,7 +1,7 @@
 {
   "osint": 5,
   "neo4j": 5,
-  "wikidata": 0,
+  "wikidata": 4,
   "culture": 0,
   "feeds": 5,
   "user-context": 5,
@@ -13,8 +13,8 @@
   "regulations": 9,
   "entities": 10,
   "deduplicated": 0,
-  "total": 79,
-  "timestamp": "2026-04-03T02:23:08.011Z",
-  "syncedAt": "2026-04-03T02:23:17.220Z",
-  "reasoning": "keyword-only"
+  "total": 83,
+  "timestamp": "2026-04-03T02:37:37.625Z",
+  "syncedAt": "2026-04-03T02:38:27.001Z",
+  "reasoning": "openrouter"
 }
