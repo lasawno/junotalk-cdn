@@ -1,6 +1,6 @@
 {
   "all": {
     "v": "[{\"key\":\"translation_v2_enabled\",\"enabled\":false},{\"key\":\"juno_ai_beta\",\"enabled\":false},{\"key\":\"video_pipeline_v2\",\"enabled\":false},{\"key\":\"camera_ui_v2\",\"enabled\":false}]",
-    "exp": 1775327527463
+    "exp": 1775327965267
   }
 }
