@@ -7,13 +7,13 @@
   "domain": 0,
   "phrases": 0,
   "languages": 0,
-  "intents": 0,
+  "intents": 5,
   "personas": 6,
   "regulations": 9,
   "entities": 10,
   "deduplicated": 0,
-  "total": 25,
-  "timestamp": "2026-04-04T18:11:53.656Z",
-  "syncedAt": "2026-04-04T18:11:55.612Z",
+  "total": 30,
+  "timestamp": "2026-04-04T18:11:53.660Z",
+  "syncedAt": "2026-04-04T18:11:56.268Z",
   "reasoning": "keyword-only"
 }
