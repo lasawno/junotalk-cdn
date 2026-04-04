@@ -3,7 +3,6 @@
   "neo4j": 5,
   "wikidata": 4,
   "culture": 0,
-  "feeds": 5,
   "user-context": 5,
   "domain": 15,
   "phrases": 5,
@@ -13,8 +12,8 @@
   "regulations": 9,
   "entities": 10,
   "deduplicated": 0,
-  "total": 83,
-  "timestamp": "2026-04-04T00:33:07.083Z",
-  "syncedAt": "2026-04-04T00:37:43.500Z",
-  "reasoning": "openrouter"
+  "total": 78,
+  "timestamp": "2026-04-04T00:42:35.960Z",
+  "syncedAt": "2026-04-04T00:42:44.667Z",
+  "reasoning": "keyword-only"
 }
