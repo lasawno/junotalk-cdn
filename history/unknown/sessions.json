@@ -3,7 +3,7 @@
     {
       "id": "sess_1775426386119_lmzy7",
       "title": "Can we talk",
-      "createdAt": "2026-04-05T21:59:46.119Z",
+      "createdAt": "2026-04-05T21:59:49.803Z",
       "messages": [
         {
           "role": "user",
@@ -24,9 +24,13 @@
         {
           "role": "assistant",
           "content": "I'm here to listen and provide support. What's on your mind? Are you thinking about something personal, or is there a particular topic or decision you'd like to discuss? Let me know how I can assist you."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds exciting! Planning a vacation can be a fun experience. Here are a few questions to help us narrow down some options:\n\n- **Destination**: Do you have a specific place in mind, or are you open to suggestions?\n- **Preferences**: Are you looking for relaxation, adventure, culture, or perhaps a mix of these?\n- **Duration**: How long do you plan to take off?\n- **Budget**: Do you have a budget in mind for this trip?\n\nOnce I have a bit more information, I can provide some tailored recommendations and tips. What’s your dream vacation looking like?"
         }
       ]
     }
   ],
-  "updatedAt": "2026-04-05T21:59:46.197Z"
+  "updatedAt": "2026-04-05T21:59:50.228Z"
 }
