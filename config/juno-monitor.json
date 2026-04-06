@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "description": "JunoMonitor — voice response quality agent. Rules here are enforced on every AI response before TTS. Edit on GitHub to tune without code deploys.",
+  "enabled": true,
+  "maxSentences": 4,
+  "trimToSentences": 3,
+  "rules": {
+    "stripDashes": true,
+    "stripMarkdown": true,
+    "stripFillerOpeners": true,
+    "fixTrailingEllipsis": true,
+    "enforceLength": true,
+    "cleanupPunctuation": true
+  },
+  "fillerOpeners": [
+    "certainly",
+    "absolutely",
+    "of course",
+    "sure",
+    "great",
+    "awesome",
+    "no problem",
+    "happy to help",
+    "glad you asked",
+    "good question",
+    "of course",
+    "indeed",
+    "wonderful",
+    "fantastic",
+    "excellent",
+    "perfect"
+  ]
+}
