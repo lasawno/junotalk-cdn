@@ -1,28 +1,20 @@
 {
   "sessions": [
     {
-      "id": "sess_1775440365074_143ku",
+      "id": "sess_1775441340750_1vdpe",
       "title": "It's my first time going to Vegas where do you…",
-      "createdAt": "2026-04-06T01:52:45.075Z",
+      "createdAt": "2026-04-06T02:09:00.750Z",
       "messages": [
         {
           "role": "user",
           "content": "It's my first time going to Vegas where do you think I should go"
         },
         {
-          "role": "user",
-          "content": "Not supposed to happen"
-        },
-        {
           "role": "assistant",
-          "content": "It sounds like you're dealing with an unexpected situation. Could you provide a bit more context or detail about what didn't go as planned? This will help me offer specific advice or insights. What aspect of the situation would you like to explore or address first?"
-        },
-        {
-          "role": "assistant",
-          "content": "Las Vegas is a vibrant city with something for everyone, so it’ll be a great experience! Here are a few must-visit spots and neighborhoods:\n\n- **The Strip**: The heart of Vegas with iconic hotels, casinos, and shows. Don't miss the famous fountains at Bellagio and the unique architecture of the Caesars Palace.\n- **Fremont Street Experience**: Offers a stunning light show and lively atmosphere with a variety of bars and shops.\n- **Bellagio Fountains**: A must-see show performed to music, making it a perfect place to relax and watch.\n- **The LINQ Promenade**: Known for its high-tech canopy and entertainment options, including the High Roller Ferris wheel.\n- **Red Rock Canyon**: Just outside the city, it's ideal for hiking and enjoying the natural beauty.\n- **Downtown Las Vegas**: Explore the vibrant arts scene, including the Neon Museum, and enjoy more casual dining options.\n\nFor dining, you might want to try:\n- **Hole in the Wall**: Known for authentic New York-style pizza.\n- **Mandarin House**: Perfect for dim sum lovers.\n- **The Cheesecake Factory**: A good choice for a wide variety of classic dishes.\n\nWhat kind of activities do you enjoy most? This might help narrow down some recommendations for your itinerary!"
+          "content": "Las Vegas offers a vibrant mix of entertainment, dining, and unique experiences. Here’s a guide to help you make the most of your visit:\n\n- **Strip**: Start with the Las Vegas Strip, where you'll find iconic hotels like **The Bellagio** and **Caesars Palace**. The Strip is lively, especially at night, with spectacular light shows and entertainment options.\n\n- **Shows & Entertainment**: Consider booking a show in advance. **Cirque du Soleil** performances at The Mirage or Bellagio are popular, as well as magic shows by **David Copperfield** at The Luxor.\n\n- **Dining**: Check out **Guy Fieri's Guy’s Burger Joint** for a fun dining experience or indulge in fine dining at **Michael Mina's Steakhouse** at Bellagio. Don't miss trying a classic **Vegas buffet**.\n\n- **Attractions**: Visit the **Bellagio Fountains** and **High Roller Observation Wheel** in The LINQ Promenade for iconic views. For a more unique experience, explore the **ATS Brewing Company** for their brewing tour and tasting.\n\n- **Casinos**: If you’re interested in gambling, try your luck at casinos like **MGM Grand** or **Tropicana**, where you can experience both classic and modern gaming environments.\n\n- **Neighborhoods**: Consider exploring **Downtown Las Vegas** for a more local vibe, with options like the **Mob Museum** and the **Welcome to Fabulous Las Vegas** sign.\n\n- **Unique Experiences**: If time permits, a helicopter tour over the Strip or the Grand Canyon offers breathtaking views. Alternatively, a gondola ride at The Venetian provides a taste of Venice.\n\nWhat specific type of experience are you most excited about?"
         }
       ]
     }
   ],
-  "updatedAt": "2026-04-06T01:52:45.545Z"
+  "updatedAt": "2026-04-06T02:09:00.812Z"
 }
