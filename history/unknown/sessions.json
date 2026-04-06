@@ -1,44 +1,20 @@
 {
   "sessions": [
     {
-      "id": "sess_1775450918438_mnx1i",
-      "title": "Hey I was thinking about going to Vegas tomorr…",
-      "createdAt": "2026-04-06T04:48:38.438Z",
+      "id": "sess_1775452728942_mgn5n",
+      "title": "Hey how are you doing tonight",
+      "createdAt": "2026-04-06T05:18:48.942Z",
       "messages": [
         {
           "role": "user",
-          "content": "Hey I was thinking about going to Vegas tomorrow"
+          "content": "Hey how are you doing tonight"
         },
         {
           "role": "assistant",
-          "content": "Vegas on short notice can be a bit tricky, let me check the flight availability for you. Are you looking to fly in tomorrow morning or are you already in the US?"
-        },
-        {
-          "role": "user",
-          "content": "I was thinking about fun tomorrow"
-        },
-        {
-          "role": "assistant",
-          "content": "It sounds like you're open to suggestions then - what type of activities are you in the mood for, shows, nightlife, or something more relaxed?"
-        },
-        {
-          "role": "user",
-          "content": "I was thinking about night bike"
-        },
-        {
-          "role": "assistant",
-          "content": "Night biking in Vegas can be a bit challenging, but I think you might be thinking of the Neon Museum's Electric Dream night ride, is that something you'd be interested in?"
-        },
-        {
-          "role": "user",
-          "content": "Yes"
-        },
-        {
-          "role": "assistant",
-          "content": "It's a unique experience, but I should let you know that it's a guided tour and you'll need to book in advance, do you have a way to book it tonight or should I help you with that?"
+          "content": "I'm doing great, it's lovely to chat with you. I'm Juno, your travel companion and conversation partner, here to help you plan your next adventure or just have a friendly chat. What brings you here tonight?"
         }
       ]
     }
   ],
-  "updatedAt": "2026-04-06T04:48:38.751Z"
+  "updatedAt": "2026-04-06T05:18:49.012Z"
 }
