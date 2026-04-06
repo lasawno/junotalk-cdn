@@ -1,28 +1,20 @@
 {
   "sessions": [
     {
-      "id": "sess_1775441340750_1vdpe",
-      "title": "It's my first time going to Vegas where do you…",
-      "createdAt": "2026-04-06T02:10:24.192Z",
+      "id": "sess_1775444677875_pxpgm",
+      "title": "Hey where are you going tonight",
+      "createdAt": "2026-04-06T03:04:37.875Z",
       "messages": [
         {
           "role": "user",
-          "content": "It's my first time going to Vegas where do you think I should go"
+          "content": "Hey where are you going tonight"
         },
         {
           "role": "assistant",
-          "content": "Las Vegas offers a vibrant mix of entertainment, dining, and unique experiences. Here’s a guide to help you make the most of your visit:\n\n- **Strip**: Start with the Las Vegas Strip, where you'll find iconic hotels like **The Bellagio** and **Caesars Palace**. The Strip is lively, especially at night, with spectacular light shows and entertainment options.\n\n- **Shows & Entertainment**: Consider booking a show in advance. **Cirque du Soleil** performances at The Mirage or Bellagio are popular, as well as magic shows by **David Copperfield** at The Luxor.\n\n- **Dining**: Check out **Guy Fieri's Guy’s Burger Joint** for a fun dining experience or indulge in fine dining at **Michael Mina's Steakhouse** at Bellagio. Don't miss trying a classic **Vegas buffet**.\n\n- **Attractions**: Visit the **Bellagio Fountains** and **High Roller Observation Wheel** in The LINQ Promenade for iconic views. For a more unique experience, explore the **ATS Brewing Company** for their brewing tour and tasting.\n\n- **Casinos**: If you’re interested in gambling, try your luck at casinos like **MGM Grand** or **Tropicana**, where you can experience both classic and modern gaming environments.\n\n- **Neighborhoods**: Consider exploring **Downtown Las Vegas** for a more local vibe, with options like the **Mob Museum** and the **Welcome to Fabulous Las Vegas** sign.\n\n- **Unique Experiences**: If time permits, a helicopter tour over the Strip or the Grand Canyon offers breathtaking views. Alternatively, a gondola ride at The Venetian provides a taste of Venice.\n\nWhat specific type of experience are you most excited about?"
-        },
-        {
-          "role": "user",
-          "content": "I was thinking about going to a nightclub"
-        },
-        {
-          "role": "assistant",
-          "content": "Nightclubs in Las Vegas offer a vibrant nightlife experience, each with its own unique vibe. Here are some top picks to consider for your visit:\n\n- **Hakkasan**: Located inside the MGM Grand, Hakkasan is known for its upscale atmosphere, international DJs, and stunning interior design. It's a must-visit for those looking for a high-energy, sophisticated clubbing experience.\n\n- **Marquee Nightclub & Dayclub**: Situated at The Cosmopolitan, Marquee features world-class DJs and is known for its incredible sound system and open-air rooftop terrace, perfect for enjoying the city lights.\n\n- **Omnia Nightclub**: Located at Caesars Palace, Omnia offers a wide range of music genres and is famous for its elaborate light shows and immersive DJ sets.\n\n- **Drai's at The Cromwell**: This club is known for its trendy, upscale vibe and features performances by top DJs and live bands. The entrance through a posh lounge adds to its exclusive feel.\n\n- **SLS Nightclub**: Found in the SLS Hotel, this nightclub offers dance floors, a VIP lounge, and a VIP club room with its own entrance, providing a more intimate experience.\n\n- **Electric Daisy Carnival (EDC)**: If you’re visiting during the right time of year (usually May or June), EDC at Las Vegas Motor Speedway is one of the largest electronic music festivals in the world and offers an unforgettable clubbing experience.\n\nWhen planning your night out, consider checking the club’s schedule in advance for special events or themed nights. Also, be aware of dress codes, which can be strict in some of these venues. Are you looking for a particular type of music or atmosphere in a nightclub?"
+          "content": "I don't have personal plans since I'm not a human, but I can help you find ideas for a fun evening! Are you thinking about dining out, catching a movie, or maybe exploring a new part of town? Let me know what you're in the mood for! What kind of night have you been dreaming of?"
         }
       ]
     }
   ],
-  "updatedAt": "2026-04-06T02:10:24.470Z"
+  "updatedAt": "2026-04-06T03:04:37.866Z"
 }
