@@ -13,7 +13,7 @@
   "entities": 10,
   "deduplicated": 0,
   "total": 78,
-  "timestamp": "2026-04-07T18:33:58.214Z",
-  "syncedAt": "2026-04-07T18:35:17.397Z",
-  "reasoning": "openrouter"
+  "timestamp": "2026-04-07T18:56:53.786Z",
+  "syncedAt": "2026-04-07T18:57:12.475Z",
+  "reasoning": "keyword-only"
 }
