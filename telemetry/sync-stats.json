@@ -1,7 +1,7 @@
 {
   "osint": 5,
-  "neo4j": 0,
-  "wikidata": 0,
+  "neo4j": 5,
+  "wikidata": 4,
   "culture": 0,
   "user-context": 5,
   "domain": 15,
@@ -12,8 +12,8 @@
   "regulations": 9,
   "entities": 10,
   "deduplicated": 0,
-  "total": 69,
-  "timestamp": "2026-04-07T04:51:57.342Z",
-  "syncedAt": "2026-04-07T04:52:12.630Z",
+  "total": 78,
+  "timestamp": "2026-04-07T05:02:26.148Z",
+  "syncedAt": "2026-04-07T05:02:45.466Z",
   "reasoning": "keyword-only"
 }
