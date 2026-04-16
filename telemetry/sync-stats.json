@@ -13,8 +13,8 @@
   "entities": 10,
   "deduplicated": 0,
   "total": 78,
-  "timestamp": "2026-04-16T18:00:29.620Z",
-  "syncedAt": "2026-04-16T18:04:18.418Z",
-  "reasoning": "openrouter",
+  "timestamp": "2026-04-16T18:06:54.938Z",
+  "syncedAt": "2026-04-16T18:07:38.191Z",
+  "reasoning": "keyword-only",
   "source": "intelligence-core"
 }
