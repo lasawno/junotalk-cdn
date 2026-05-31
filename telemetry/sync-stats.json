@@ -1,5 +1,5 @@
 {
-  "osint": 5,
+  "osint": 0,
   "neo4j": 5,
   "wikidata": 4,
   "culture": 0,
@@ -12,9 +12,9 @@
   "regulations": 9,
   "entities": 10,
   "deduplicated": 0,
-  "total": 78,
-  "timestamp": "2026-05-31T06:33:13.648Z",
-  "syncedAt": "2026-05-31T06:41:31.047Z",
+  "total": 73,
+  "timestamp": "2026-05-31T10:33:16.547Z",
+  "syncedAt": "2026-05-31T10:41:45.647Z",
   "reasoning": "openrouter",
   "source": "intelligence-core"
 }
